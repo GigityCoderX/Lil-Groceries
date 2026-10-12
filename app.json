@@ -18,7 +18,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.yourname.littlegrocerylist"
+      "package": "com.gigityballs69.littlegrocerylist"
     },
     "plugins": [
       [
@@ -37,11 +37,6 @@
           }
         }
       ]
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "037b6139-3882-4e0c-b0fb-0c45765ec9de"
-      }
-    }
+    ]
   }
 }
